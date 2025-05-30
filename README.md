@@ -1,3 +1,6 @@
+## NAME: KALPANAA BABU T M
+## REG NO: 212224230112
+
 # EXP 6: Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
